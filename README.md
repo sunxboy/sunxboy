@@ -1,16 +1,26 @@
 ### Hi there 👋
 
-<!--
-**sunxboy/sunxboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sunxboy/sunxboy/blob/main/WechatIMG458.jpg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/sunxboy/sunxboy/blob/main/WechatIMG458.jpg">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/sunxboy/sunxboy/blob/main/WechatIMG458.jpg">
+</picture>
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi, I'm SunXianbing. I love software development and I am interested in bioengineering and lean management as well.
+
+<details open>
+<summary>My top THINGS-TO-RANK</summary>
+
+| Rank | THING-TO-RANK |
+|-----:|---------------|
+|     1|    Java       |
+|     2|    Rust       |
+|     3|    Golang     |
+|     4|    Scrum      |
+|     5|    Agile      |
+|     6|    Lean       |
+
+</details>
+
